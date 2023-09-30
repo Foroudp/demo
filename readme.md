@@ -27,34 +27,6 @@
                     a career in programming, it's important to learn about different
                     positions available and ways to find them.</p>
             </article>
-
-            <article>
-                <h3>Article 2</h3>
-                <p class="gray">are professionals who design, create and test computer
-                    software in addition to applications for mobile devices
-                    and online platforms. As more companies use this technology
-                    for day-to-day work tasks, they may require more software
-                    professionals on staff. <span class="highlight">NNN</span>If you're interested in pursuing 
-                    a career in programming, it's important to learn about different
-                    positions available and ways to find them.</p>
-            </article>
-
-            <article>
-                <h2>Article 3</h2>
-                <p class="gray" id="second">are professionals who design, create and test computer
-                    software in addition to applications for mobile devices
-                    and online platforms. As more companies use this technology
-                    for day-to-day work tasks, they may require more software
-                    professionals on staff. <span>NHL</span>If you're interested in pursuing 
-                    a career in programming, it's important to learn about different
-                    positions available and ways to find them.</p>
-                <br>
-
-            </article>
         </main>
-
-
-
-
 </body>
 </html>
